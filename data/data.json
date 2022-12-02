@@ -1,0 +1,1087 @@
+[
+    {
+        "teamName": "Anaheim Ducks",
+        "city": " Anaheim",
+        "teamLeague": "NHL",
+        "yearFounded": " 1993",
+        "sport": "hockey"
+    },
+    {
+        "teamName": "Arizona Cardinals",
+        "city": " Glendale",
+        "teamLeague": "NFL",
+        "yearFounded": " 1988",
+        "sport": "football"
+    },
+    {
+        "teamName": "Arizona Coyotes",
+        "city": " Glendale",
+        "teamLeague": "NHL",
+        "yearFounded": " 1996",
+        "sport": "hockey"
+    },
+    {
+        "teamName": "Arizona Diamondbacks",
+        "city": " Phoenix",
+        "teamLeague": "MLB",
+        "yearFounded": " 1998",
+        "sport": "baseball"
+    },
+    {
+        "teamName": "Atlanta Braves",
+        "city": " Atlanta",
+        "teamLeague": "MLB",
+        "yearFounded": " 1966",
+        "sport": "baseball"
+    },
+    {
+        "teamName": "Atlanta Falcons",
+        "city": " Atlanta",
+        "teamLeague": "NFL",
+        "yearFounded": " 1966",
+        "sport": "football"
+    },
+    {
+        "teamName": "Atlanta Hawks",
+        "city": " Atlanta",
+        "teamLeague": "NBA",
+        "yearFounded": " 1968",
+        "sport": "basketball"
+    },
+    {
+        "teamName": "Atlanta United FC",
+        "city": " Atlanta",
+        "teamLeague": "MLS",
+        "yearFounded": " 2017",
+        "sport": "soccer"
+    },
+    {
+        "teamName": "Baltimore Orioles",
+        "city": " Baltimore",
+        "teamLeague": "MLB",
+        "yearFounded": " 1954",
+        "sport": "baseball"
+    },
+    {
+        "teamName": "Baltimore Ravens",
+        "city": " Baltimore",
+        "teamLeague": "NFL",
+        "yearFounded": " 1996",
+        "sport": "football"
+    },
+    {
+        "teamName": "BC Lions",
+        "city": "Vancouver",
+        "teamLeague": "CFL",
+        "yearFounded": " 1954",
+        "sport": "football"
+    },
+    {
+        "teamName": "Boston Bruins",
+        "city": " Boston",
+        "teamLeague": "NHL",
+        "yearFounded": " 1924",
+        "sport": "hockey"
+    },
+    {
+        "teamName": "Boston Celtics",
+        "city": " Boston",
+        "teamLeague": "NBA",
+        "yearFounded": " 1946",
+        "sport": "basketball"
+    },
+    {
+        "teamName": "Boston Red Sox",
+        "city": " Boston",
+        "teamLeague": "MLB",
+        "yearFounded": " 1901",
+        "sport": "baseball"
+    },
+    {
+        "teamName": "Brooklyn Nets",
+        "city": " New York City",
+        "teamLeague": "NBA",
+        "yearFounded": " 1967",
+        "sport": "basketball"
+    },
+    {
+        "teamName": "Buffalo Bills",
+        "city": " Orchard Park",
+        "teamLeague": "NFL",
+        "yearFounded": " 1960",
+        "sport": "football"
+    },
+    {
+        "teamName": "Buffalo Sabres",
+        "city": " Buffalo",
+        "teamLeague": "NHL",
+        "yearFounded": " 1970",
+        "sport": "hockey"
+    },
+    {
+        "teamName": "Calgary Flames",
+        "city": " Calgary",
+        "teamLeague": "NHL",
+        "yearFounded": " 1980",
+        "sport": "hockey"
+    },
+    {
+        "teamName": "Calgary Stampeders",
+        "city": " Calgary",
+        "teamLeague": "CFL",
+        "yearFounded": " 1945",
+        "sport": "football"
+    },
+    {
+        "teamName": "Carolina Hurricanes",
+        "city": " Raleigh",
+        "teamLeague": "NHL",
+        "yearFounded": " 1997",
+        "sport": "hockey"
+    },
+    {
+        "teamName": "Carolina Panthers",
+        "city": " Charlotte",
+        "teamLeague": "NFL",
+        "yearFounded": " 1995",
+        "sport": "football"
+    },
+    {
+        "teamName": "Charlotte Hornets",
+        "city": " Charlotte",
+        "teamLeague": "NBA",
+        "yearFounded": " 2004",
+        "sport": "basketball"
+    },
+    {
+        "teamName": "Chicago Bears",
+        "city": " Chicago",
+        "teamLeague": "NFL",
+        "yearFounded": " 1921",
+        "sport": "football"
+    },
+    {
+        "teamName": "Chicago Blackhawks",
+        "city": " Chicago",
+        "teamLeague": "NHL",
+        "yearFounded": " 1926",
+        "sport": "hockey"
+    },
+    {
+        "teamName": "Chicago Bulls",
+        "city": " Chicago",
+        "teamLeague": "NBA",
+        "yearFounded": " 1966",
+        "sport": "basketball"
+    },
+    {
+        "teamName": "Chicago Cubs",
+        "city": " Chicago",
+        "teamLeague": "MLB",
+        "yearFounded": " 1870",
+        "sport": "baseball"
+    },
+    {
+        "teamName": "Chicago Fire",
+        "city": " Bridgeview",
+        "teamLeague": "MLS",
+        "yearFounded": " 1997",
+        "sport": "soccer"
+    },
+    {
+        "teamName": "Chicago White Sox",
+        "city": " Chicago",
+        "teamLeague": "MLB",
+        "yearFounded": " 1901",
+        "sport": "baseball"
+    },
+    {
+        "teamName": "Cincinnati Bengals",
+        "city": " Cincinnati",
+        "teamLeague": "NFL",
+        "yearFounded": " 1968",
+        "sport": "football"
+    },
+    {
+        "teamName": "Cincinnati Reds",
+        "city": " Cincinnati",
+        "teamLeague": "MLB",
+        "yearFounded": " 1882",
+        "sport": "baseball"
+    },
+    {
+        "teamName": "Cleveland Browns",
+        "city": " Cleveland",
+        "teamLeague": "NFL",
+        "yearFounded": " 1946",
+        "sport": "football"
+    },
+    {
+        "teamName": "Cleveland Cavaliers",
+        "city": " Cleveland",
+        "teamLeague": "NBA",
+        "yearFounded": " 1970",
+        "sport": "basketball"
+    },
+    {
+        "teamName": "Cleveland Indians",
+        "city": " Cleveland",
+        "teamLeague": "MLB",
+        "yearFounded": " 1901",
+        "sport": "baseball"
+    },
+    {
+        "teamName": "Colorado Avalanche",
+        "city": " Denver",
+        "teamLeague": "NHL",
+        "yearFounded": " 1995",
+        "sport": "hockey"
+    },
+    {
+        "teamName": "Colorado Rapids",
+        "city": " Commerce City",
+        "teamLeague": "MLS",
+        "yearFounded": " 1996",
+        "sport": "soccer"
+    },
+    {
+        "teamName": "Colorado Rockies",
+        "city": " Denver",
+        "teamLeague": "MLB",
+        "yearFounded": " 1993",
+        "sport": "baseball"
+    },
+    {
+        "teamName": "Columbus Blue Jackets",
+        "city": " Columbus",
+        "teamLeague": "NHL",
+        "yearFounded": " 2000",
+        "sport": "hockey"
+    },
+    {
+        "teamName": "Columbus Crew SC",
+        "city": " Columbus",
+        "teamLeague": "MLS",
+        "yearFounded": " 1996",
+        "sport": "soccer"
+    },
+    {
+        "teamName": "FC Dallas",
+        "city": " Frisco",
+        "teamLeague": "MLS",
+        "yearFounded": " 1996",
+        "sport": "soccer"
+    },
+    {
+        "teamName": "Dallas Cowboys",
+        "city": " Arlington",
+        "teamLeague": "NFL",
+        "yearFounded": " 1960",
+        "sport": "football"
+    },
+    {
+        "teamName": "Dallas Mavericks",
+        "city": " Dallas",
+        "teamLeague": "NBA",
+        "yearFounded": " 1980",
+        "sport": "basketball"
+    },
+    {
+        "teamName": "Dallas Stars",
+        "city": " Dallas",
+        "teamLeague": "NHL",
+        "yearFounded": " 1993",
+        "sport": "hockey"
+    },
+    {
+        "teamName": "D.C. United",
+        "city": " Washington",
+        "teamLeague": "MLS",
+        "yearFounded": " 1996",
+        "sport": "soccer"
+    },
+    {
+        "teamName": "Denver Broncos",
+        "city": " Denver",
+        "teamLeague": "NFL",
+        "yearFounded": " 1960",
+        "sport": "football"
+    },
+    {
+        "teamName": "Denver Nuggets",
+        "city": " Denver",
+        "teamLeague": "NBA",
+        "yearFounded": " 1967",
+        "sport": "basketball"
+    },
+    {
+        "teamName": "Detroit Lions",
+        "city": " Detroit",
+        "teamLeague": "NFL",
+        "yearFounded": " 1934",
+        "sport": "football"
+    },
+    {
+        "teamName": "Detroit Pistons",
+        "city": " Detroit",
+        "teamLeague": "NBA",
+        "yearFounded": " 1957",
+        "sport": "basketball"
+    },
+    {
+        "teamName": "Detroit Red Wings",
+        "city": " Detroit",
+        "teamLeague": "NHL",
+        "yearFounded": " 1926",
+        "sport": "hockey"
+    },
+    {
+        "teamName": "Detroit Tigers",
+        "city": " Detroit",
+        "teamLeague": "MLB",
+        "yearFounded": " 1901",
+        "sport": "baseball"
+    },
+    {
+        "teamName": "Edmonton Eskimos",
+        "city": " Edmonton",
+        "teamLeague": "CFL",
+        "yearFounded": " 1949",
+        "sport": "football"
+    },
+    {
+        "teamName": "Edmonton Oilers",
+        "city": " Edmonton",
+        "teamLeague": "NHL",
+        "yearFounded": " 1972",
+        "sport": "hockey"
+    },
+    {
+        "teamName": "Florida Panthers",
+        "city": " Sunrise",
+        "teamLeague": "NHL",
+        "yearFounded": " 1993",
+        "sport": "hockey"
+    },
+    {
+        "teamName": "Golden State Warriors",
+        "city": " Oakland",
+        "teamLeague": "NBA",
+        "yearFounded": " 1962",
+        "sport": "basketball"
+    },
+    {
+        "teamName": "Green Bay Packers",
+        "city": " Green Bay",
+        "teamLeague": "NFL",
+        "yearFounded": " 1921",
+        "sport": "football"
+    },
+    {
+        "teamName": "Hamilton Tiger-Cats",
+        "city": " Hamilton",
+        "teamLeague": "CFL",
+        "yearFounded": " 1950",
+        "sport": "football"
+    },
+    {
+        "teamName": "Houston Astros",
+        "city": " Houston",
+        "teamLeague": "MLB",
+        "yearFounded": " 1962",
+        "sport": "baseball"
+    },
+    {
+        "teamName": "Houston Dynamo",
+        "city": " Houston",
+        "teamLeague": "MLS",
+        "yearFounded": " 2006",
+        "sport": "soccer"
+    },
+    {
+        "teamName": "Houston Rockets",
+        "city": " Houston",
+        "teamLeague": "NBA",
+        "yearFounded": " 1971",
+        "sport": "basketball"
+    },
+    {
+        "teamName": "Houston Texans",
+        "city": " Houston",
+        "teamLeague": "NFL",
+        "yearFounded": " 2002",
+        "sport": "football"
+    },
+    {
+        "teamName": "Indiana Pacers",
+        "city": " Indianapolis",
+        "teamLeague": "NBA",
+        "yearFounded": " 1967",
+        "sport": "basketball"
+    },
+    {
+        "teamName": "Indianapolis Colts",
+        "city": " Indianapolis",
+        "teamLeague": "NFL",
+        "yearFounded": " 1984",
+        "sport": "football"
+    },
+    {
+        "teamName": "Jacksonville Jaguars",
+        "city": " Jacksonville",
+        "teamLeague": "NFL",
+        "yearFounded": " 1995",
+        "sport": "football"
+    },
+    {
+        "teamName": "Sporting Kansas City",
+        "city": " Kansas City",
+        "teamLeague": "MLS",
+        "yearFounded": " 1996",
+        "sport": "soccer"
+    },
+    {
+        "teamName": "Kansas City Chiefs",
+        "city": " Kansas City",
+        "teamLeague": "NFL",
+        "yearFounded": "1963",
+        "sport": "football"
+    },
+    {
+        "teamName": "Kansas City Royals",
+        "city": " Kansas City",
+        "teamLeague": "MLB",
+        "yearFounded": " 1969",
+        "sport": "baseball"
+    },
+    {
+        "teamName": "LA Galaxy",
+        "city": " Carson",
+        "teamLeague": "MLS",
+        "yearFounded": " 1996",
+        "sport": "soccer"
+    },
+    {
+        "teamName": "Los Angeles Angels",
+        "city": " Anaheim",
+        "teamLeague": "MLB",
+        "yearFounded": " 1961",
+        "sport": "baseball"
+    },
+    {
+        "teamName": "Los Angeles Chargers",
+        "city": " Carson",
+        "teamLeague": "NFL",
+        "yearFounded": " 2017",
+        "sport": "football"
+    },
+    {
+        "teamName": "Los Angeles Clippers",
+        "city": " Los Angeles",
+        "teamLeague": "NBA",
+        "yearFounded": " 1984",
+        "sport": "basketball"
+    },
+    {
+        "teamName": "Los Angeles Dodgers",
+        "city": " Los Angeles",
+        "teamLeague": "MLB",
+        "yearFounded": " 1958",
+        "sport": "baseball"
+    },
+    {
+        "teamName": "Los Angeles FC",
+        "city": " Los Angeles",
+        "teamLeague": "MLS",
+        "yearFounded": " 2018",
+        "sport": "soccer"
+    },
+    {
+        "teamName": "Los Angeles Kings",
+        "city": " Los Angeles",
+        "teamLeague": "NHL",
+        "yearFounded": " 1967",
+        "sport": "hockey"
+    },
+    {
+        "teamName": "Los Angeles Lakers",
+        "city": " Los Angeles",
+        "teamLeague": "NBA",
+        "yearFounded": " 1960",
+        "sport": "basketball"
+    },
+    {
+        "teamName": "Los Angeles Rams",
+        "city": " Los Angeles",
+        "teamLeague": "NFL",
+        "yearFounded": " 2016",
+        "sport": "football"
+    },
+    {
+        "teamName": "Memphis Grizzlies",
+        "city": " Memphis",
+        "teamLeague": "NBA",
+        "yearFounded": " 2001",
+        "sport": "basketball"
+    },
+    {
+        "teamName": "Miami Dolphins",
+        "city": " Miami Gardens",
+        "teamLeague": "NFL",
+        "yearFounded": " 1966",
+        "sport": "football"
+    },
+    {
+        "teamName": "Miami Heat",
+        "city": " Miami",
+        "teamLeague": "NBA",
+        "yearFounded": " 1988",
+        "sport": "basketball"
+    },
+    {
+        "teamName": "Miami Marlins",
+        "city": " Miami",
+        "teamLeague": "MLB",
+        "yearFounded": " 1993",
+        "sport": "baseball"
+    },
+    {
+        "teamName": "Milwaukee Brewers",
+        "city": " Milwaukee",
+        "teamLeague": "MLB",
+        "yearFounded": " 1970",
+        "sport": "baseball"
+    },
+    {
+        "teamName": "Milwaukee Bucks",
+        "city": " Milwaukee",
+        "teamLeague": "NBA",
+        "yearFounded": " 1968",
+        "sport": "basketball"
+    },
+    {
+        "teamName": "Minnesota Timberwolves",
+        "city": " Minneapolis",
+        "teamLeague": "NBA",
+        "yearFounded": " 1989",
+        "sport": "basketball"
+    },
+    {
+        "teamName": "Minnesota Twins",
+        "city": " Minneapolis",
+        "teamLeague": "MLB",
+        "yearFounded": " 1961",
+        "sport": "baseball"
+    },
+    {
+        "teamName": "Minnesota United FC",
+        "city": " St. Paul",
+        "teamLeague": "MLS",
+        "yearFounded": " 2017",
+        "sport": "soccer"
+    },
+    {
+        "teamName": "Minnesota Vikings",
+        "city": " Minneapolis",
+        "teamLeague": "NFL",
+        "yearFounded": " 1961",
+        "sport": "football"
+    },
+    {
+        "teamName": "Minnesota Wild",
+        "city": " St. Paul",
+        "teamLeague": "NHL",
+        "yearFounded": " 2000",
+        "sport": "hockey"
+    },
+    {
+        "teamName": "Montreal Alouettes",
+        "city": " Montreal",
+        "teamLeague": "CFL",
+        "yearFounded": " 1946/1996",
+        "sport": "football"
+    },
+    {
+        "teamName": "Montreal Canadiens",
+        "city": " Montreal",
+        "teamLeague": "NHL",
+        "yearFounded": " 1909",
+        "sport": "hockey"
+    },
+    {
+        "teamName": "Montreal Impact",
+        "city": " Montreal",
+        "teamLeague": "MLS",
+        "yearFounded": " 2012",
+        "sport": "soccer"
+    },
+    {
+        "teamName": "Nashville Predators",
+        "city": " Nashville",
+        "teamLeague": "NHL",
+        "yearFounded": " 1998",
+        "sport": "hockey"
+    },
+    {
+        "teamName": "New England Patriots",
+        "city": " Foxborough",
+        "teamLeague": "NFL",
+        "yearFounded": " 1960",
+        "sport": "football"
+    },
+    {
+        "teamName": "New England Revolution",
+        "city": " Foxborough",
+        "teamLeague": "MLS",
+        "yearFounded": " 1996",
+        "sport": "soccer"
+    },
+    {
+        "teamName": "New Jersey Devils",
+        "city": " Newark",
+        "teamLeague": "NHL",
+        "yearFounded": " 1982",
+        "sport": "hockey"
+    },
+    {
+        "teamName": "New Orleans Pelicans",
+        "city": " New Orleans",
+        "teamLeague": "NBA",
+        "yearFounded": " 2002",
+        "sport": "basketball"
+    },
+    {
+        "teamName": "New Orleans Saints",
+        "city": " New Orleans",
+        "teamLeague": "NFL",
+        "yearFounded": " 1967",
+        "sport": "football"
+    },
+    {
+        "teamName": "New York City FC",
+        "city": " New York City",
+        "teamLeague": "MLS",
+        "yearFounded": " 2015",
+        "sport": "soccer"
+    },
+    {
+        "teamName": "New York Giants",
+        "city": " East Rutherford",
+        "teamLeague": "NFL",
+        "yearFounded": "1925",
+        "sport": "football"
+    },
+    {
+        "teamName": "New York Islanders",
+        "city": " New York City",
+        "teamLeague": "NHL",
+        "yearFounded": " 1972",
+        "sport": "hockey"
+    },
+    {
+        "teamName": "New York Jets",
+        "city": " East Rutherford",
+        "teamLeague": "NFL",
+        "yearFounded": " 1960",
+        "sport": "football"
+    },
+    {
+        "teamName": "New York Knicks",
+        "city": " New York City",
+        "teamLeague": "NBA",
+        "yearFounded": " 1946",
+        "sport": "basketball"
+    },
+    {
+        "teamName": "New York Mets",
+        "city": " New York City",
+        "teamLeague": "MLB",
+        "yearFounded": " 1962",
+        "sport": "baseball"
+    },
+    {
+        "teamName": "New York Rangers",
+        "city": " New York City",
+        "teamLeague": "NHL",
+        "yearFounded": " 1926",
+        "sport": "hockey"
+    },
+    {
+        "teamName": "New York Red Bulls",
+        "city": " Harrison",
+        "teamLeague": "MLS",
+        "yearFounded": " 1996",
+        "sport": "soccer"
+    },
+    {
+        "teamName": "New York Yankees",
+        "city": " New York City",
+        "teamLeague": "MLB",
+        "yearFounded": " 1903",
+        "sport": "baseball"
+    },
+    {
+        "teamName": "Oakland Athletics",
+        "city": " Oakland",
+        "teamLeague": "MLB",
+        "yearFounded": " 1968",
+        "sport": "baseball"
+    },
+    {
+        "teamName": "Oakland Raiders",
+        "city": " Oakland",
+        "teamLeague": "NFL",
+        "yearFounded": " 1995",
+        "sport": "football"
+    },
+    {
+        "teamName": "Oklahoma City Thunder",
+        "city": " Oklahoma City",
+        "teamLeague": "NBA",
+        "yearFounded": " 2008",
+        "sport": "basketball"
+    },
+    {
+        "teamName": "Orlando City SC",
+        "city": " Orlando",
+        "teamLeague": "MLS",
+        "yearFounded": " 2015",
+        "sport": "soccer"
+    },
+    {
+        "teamName": "Orlando Magic",
+        "city": " Orlando",
+        "teamLeague": "NBA",
+        "yearFounded": " 1989",
+        "sport": "basketball"
+    },
+    {
+        "teamName": "Ottawa Redblacks",
+        "city": " Ottawa",
+        "teamLeague": "CFL",
+        "yearFounded": "2014",
+        "sport": "football"
+    },
+    {
+        "teamName": "Ottawa Senators",
+        "city": " Ottawa",
+        "teamLeague": "NHL",
+        "yearFounded": "1992",
+        "sport": "hockey"
+    },
+    {
+        "teamName": "Philadelphia 76ers",
+        "city": " Philadelphia",
+        "teamLeague": "NBA",
+        "yearFounded": "1963",
+        "sport": "basketball"
+    },
+    {
+        "teamName": "Philadelphia Eagles",
+        "city": " Philadelphia",
+        "teamLeague": "NFL",
+        "yearFounded": " 1933",
+        "sport": "football"
+    },
+    {
+        "teamName": "Philadelphia Flyers",
+        "city": " Philadelphia",
+        "teamLeague": "NHL",
+        "yearFounded": " 1967",
+        "sport": "hockey"
+    },
+    {
+        "teamName": "Philadelphia Phillies",
+        "city": " Philadelphia",
+        "teamLeague": "MLB",
+        "yearFounded": " 1883",
+        "sport": "baseball"
+    },
+    {
+        "teamName": "Philadelphia Union",
+        "city": " Chester",
+        "teamLeague": "MLS",
+        "yearFounded": " 2010",
+        "sport": "soccer"
+    },
+    {
+        "teamName": "Phoenix Suns",
+        "city": " Phoenix",
+        "teamLeague": "NBA",
+        "yearFounded": " 1968",
+        "sport": "basketball"
+    },
+    {
+        "teamName": "Pittsburgh Penguins",
+        "city": " Pittsburgh",
+        "teamLeague": "NHL",
+        "yearFounded": " 1967",
+        "sport": "hockey"
+    },
+    {
+        "teamName": "Pittsburgh Pirates",
+        "city": " Pittsburgh",
+        "teamLeague": "MLB",
+        "yearFounded": " 1882",
+        "sport": "baseball"
+    },
+    {
+        "teamName": "Pittsburgh Steelers",
+        "city": " Pittsburgh",
+        "teamLeague": "NFL",
+        "yearFounded": " 1933",
+        "sport": "football"
+    },
+    {
+        "teamName": "Portland Trail Blazers",
+        "city": " Portland",
+        "teamLeague": "NBA",
+        "yearFounded": " 1970",
+        "sport": "basketball"
+    },
+    {
+        "teamName": "Portland Timbers",
+        "city": " Portland",
+        "teamLeague": "MLS",
+        "yearFounded": " 2011",
+        "sport": "soccer"
+    },
+    {
+        "teamName": "Sacramento Kings",
+        "city": " Sacramento",
+        "teamLeague": "NBA",
+        "yearFounded": " 1985",
+        "sport": "basketball"
+    },
+    {
+        "teamName": "Real Salt Lake",
+        "city": " Sandy",
+        "teamLeague": "MLS",
+        "yearFounded": " 2005",
+        "sport": "soccer"
+    },
+    {
+        "teamName": "San Antonio Spurs",
+        "city": " San Antonio",
+        "teamLeague": "NBA",
+        "yearFounded": " 1973",
+        "sport": "basketball"
+    },
+    {
+        "teamName": "San Diego Padres",
+        "city": " San Diego",
+        "teamLeague": "MLB",
+        "yearFounded": " 1969",
+        "sport": "baseball"
+    },
+    {
+        "teamName": "San Francisco 49ers",
+        "city": " Santa Clara",
+        "teamLeague": "NFL",
+        "yearFounded": " 1946",
+        "sport": "football"
+    },
+    {
+        "teamName": "San Francisco Giants",
+        "city": " San Francisco",
+        "teamLeague": "MLB",
+        "yearFounded": " 1958",
+        "sport": "baseball"
+    },
+    {
+        "teamName": "San Jose Earthquakes",
+        "city": " San Jose",
+        "teamLeague": "MLS",
+        "yearFounded": " 1996",
+        "sport": "soccer"
+    },
+    {
+        "teamName": "San Jose Sharks",
+        "city": " San Jose",
+        "teamLeague": "NHL",
+        "yearFounded": " 1991",
+        "sport": "hockey"
+    },
+    {
+        "teamName": "Saskatchewan Roughriders",
+        "city": " Regina",
+        "teamLeague": "CFL",
+        "yearFounded": " 1910",
+        "sport": "football"
+    },
+    {
+        "teamName": "St. Louis Blues",
+        "city": " St. Louis",
+        "teamLeague": "NHL",
+        "yearFounded": " 1967",
+        "sport": "hockey"
+    },
+    {
+        "teamName": "St. Louis Cardinals",
+        "city": " St. Louis",
+        "teamLeague": "MLB",
+        "yearFounded": " 1882",
+        "sport": "baseball"
+    },
+    {
+        "teamName": "Seattle Mariners",
+        "city": " Seattle",
+        "teamLeague": "MLB",
+        "yearFounded": " 1977",
+        "sport": "baseball"
+    },
+    {
+        "teamName": "Seattle Seahawks",
+        "city": " Seattle",
+        "teamLeague": "NFL",
+        "yearFounded": " 1976",
+        "sport": "football"
+    },
+    {
+        "teamName": "Seattle Sounders FC",
+        "city": " Seattle",
+        "teamLeague": "MLS",
+        "yearFounded": " 2009",
+        "sport": "soccer"
+    },
+    {
+        "teamName": "Tampa Bay Buccaneers",
+        "city": " Tampa",
+        "teamLeague": "NFL",
+        "yearFounded": " 1976",
+        "sport": "football"
+    },
+    {
+        "teamName": "Tampa Bay Lightning",
+        "city": " Tampa",
+        "teamLeague": "NHL",
+        "yearFounded": "1992",
+        "sport": "hockey"
+    },
+    {
+        "teamName": "Tampa Bay Rays",
+        "city": " St. Petersburg",
+        "teamLeague": "MLB",
+        "yearFounded": " 1998",
+        "sport": "baseball"
+    },
+    {
+        "teamName": "Tennessee Titans",
+        "city": " Nashville",
+        "teamLeague": "NFL",
+        "yearFounded": " 1997",
+        "sport": "football"
+    },
+    {
+        "teamName": "Texas Rangers",
+        "city": " Arlington",
+        "teamLeague": "MLB",
+        "yearFounded": " 1972",
+        "sport": "baseball"
+    },
+    {
+        "teamName": "Toronto Argonauts",
+        "city": "Toronto",
+        "teamLeague": "CFL",
+        "yearFounded": " 1873",
+        "sport": "football"
+    },
+    {
+        "teamName": "Toronto Blue Jays",
+        "city": "Toronto",
+        "teamLeague": "MLB",
+        "yearFounded": " 1977",
+        "sport": "baseball"
+    },
+    {
+        "teamName": "Toronto FC",
+        "city": "Toronto",
+        "teamLeague": "MLS",
+        "yearFounded": " 2007",
+        "sport": "soccer"
+    },
+    {
+        "teamName": "Toronto Maple Leafs",
+        "city": "Toronto",
+        "teamLeague": "NHL",
+        "yearFounded": " 1917",
+        "sport": "hockey"
+    },
+    {
+        "teamName": "Toronto Raptors",
+        "city": "Toronto",
+        "teamLeague": "NBA",
+        "yearFounded": " 1995",
+        "sport": "basketball"
+    },
+    {
+        "teamName": "Utah Jazz",
+        "city": " Salt Lake City",
+        "teamLeague": "NBA",
+        "yearFounded": " 1979",
+        "sport": "basketball"
+    },
+    {
+        "teamName": "Vancouver Canucks",
+        "city": "Vancouver",
+        "teamLeague": "NHL",
+        "yearFounded": " 1970",
+        "sport": "hockey"
+    },
+    {
+        "teamName": "Vancouver Whitecaps FC",
+        "city": "Vancouver",
+        "teamLeague": "MLS",
+        "yearFounded": " 2011",
+        "sport": "soccer"
+    },
+    {
+        "teamName": "Vegas Golden Knights",
+        "city": " Paradise",
+        "teamLeague": "NHL",
+        "yearFounded": " 2017",
+        "sport": "hockey"
+    },
+    {
+        "teamName": "Washington Capitals",
+        "city": " Washington",
+        "teamLeague": "NHL",
+        "yearFounded": " 1974",
+        "sport": "hockey"
+    },
+    {
+        "teamName": "Washington Nationals",
+        "city": " Washington",
+        "teamLeague": "MLB",
+        "yearFounded": " 2005",
+        "sport": "baseball"
+    },
+    {
+        "teamName": "Washington Redskins",
+        "city": " Landover",
+        "teamLeague": "NFL",
+        "yearFounded": " 1937",
+        "sport": "football"
+    },
+    {
+        "teamName": "Washington Wizards",
+        "city": " Washington",
+        "teamLeague": "NBA",
+        "yearFounded": " 1973",
+        "sport": "basketball"
+    },
+    {
+        "teamName": "Winnipeg Blue Bombers",
+        "city": " Winnipeg",
+        "teamLeague": "CFL",
+        "yearFounded": " 1930",
+        "sport": "football"
+    },
+    {
+        "teamName": "Winnipeg Jets",
+        "city": " Winnipeg",
+        "teamLeague": "NHL",
+        "yearFounded": " 2011",
+        "sport": "hockey"
+    }
+]

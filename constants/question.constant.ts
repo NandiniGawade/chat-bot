@@ -1,0 +1,10 @@
+export const THANK_YOU_MESSAGE = 'Thank you for taking the Rival Chatbot Challenge';
+export const TEAMS_QUESTION = 'Which of the following is';
+export const TEAMS_YEAR_QUESTION = 'What sports teams';
+export const CONFIRMATION_QUESTION = 'Are you ready to begin?';
+export const WORD_CONFIRMATION_QUESTION = 'Great! Are you ready to continue to some word questions?';
+export const CONTINUE_CHALLENGE = 'Are you ready to go?';
+export const SUM = 'sum';
+export const MAX = 'largest';
+export const EVEN_NUMBER_OF_LETTER = 'even number of letters';
+export const ALPHABETIZE ='alphabetize';

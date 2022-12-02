@@ -1,0 +1,608 @@
+2022-11-28 13:03:20:320 [32minfo[39m: [32mThis is a info log[39m
+2022-11-28 13:04:15:415 [32minfo[39m: [32mThis is a info log[39m
+2022-11-28 13:06:17:617 [32minfo[39m: [32mThis is a info log[39m
+2022-11-28 13:06:26:626 [32minfo[39m: [32mThis is a info log[39m
+2022-11-28 13:06:36:636 [32minfo[39m: [32mThis is a info log[39m
+2022-11-28 13:07:07:77 [32minfo[39m: [32mThis is a info log[39m
+2022-11-28 13:07:11:711 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '90d6f74b-eec3-4b84-91f3-69d196c67c82' }[39m
+[32m}[39m
+2022-11-28 13:08:38:838 [32minfo[39m: [32mThis is a info log[39m
+2022-11-28 13:15:16:1516 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '90d6f74b-eec3-4b84-91f3-69d196c67c82' }[39m
+[32m}[39m
+2022-11-28 15:51:54:5154 [31merror[39m: [31mName is required[39m
+2022-11-28 15:51:54:5154 [31merror[39m: [31mEmail is required[39m
+2022-11-28 15:52:43:5243 [31merror[39m: [31mName is required[39m
+2022-11-28 15:52:43:5243 [31merror[39m: [31mEmail is required[39m
+2022-11-28 15:56:15:5615 [31merror[39m: [31mName is required[39m
+2022-11-28 15:56:15:5615 [31merror[39m: [31mEmail is required[39m
+2022-11-28 15:58:18:5818 [31merror[39m: [31mUser id is required[39m
+2022-11-28 15:58:20:5820 [31merror[39m: [31mName is required[39m
+2022-11-28 15:58:20:5820 [31merror[39m: [31mEmail is required[39m
+2022-11-28 16:00:21:021 [31merror[39m: [31mUser id is required[39m
+2022-11-28 16:00:23:023 [31merror[39m: [31mName is required[39m
+2022-11-28 16:00:23:023 [31merror[39m: [31mEmail is required[39m
+2022-11-28 16:00:42:042 [31merror[39m: [31mUser id is required[39m
+2022-11-28 16:00:44:044 [31merror[39m: [31mName is required[39m
+2022-11-28 16:00:44:044 [31merror[39m: [31mEmail is required[39m
+2022-11-28 16:01:23:123 [31merror[39m: [31mUser id is required[39m
+2022-11-28 16:01:25:125 [31merror[39m: [31mName is required[39m
+2022-11-28 16:01:25:125 [31merror[39m: [31mEmail is required[39m
+2022-11-28 16:14:01:141 [31merror[39m: [31mUser id is required[39m
+2022-11-28 16:14:01:141 [31merror[39m: [31mconversation id is required[39m
+2022-11-28 16:14:03:143 [31merror[39m: [31mName is required[39m
+2022-11-28 16:14:03:143 [31merror[39m: [31mEmail is required[39m
+2022-11-28 16:15:45:1545 [31merror[39m: [31mUser id is required[39m
+2022-11-28 16:15:51:1551 [31merror[39m: [31mName is required[39m
+2022-11-28 16:15:51:1551 [31merror[39m: [31mEmail is required[39m
+2022-11-28 16:16:38:1638 [31merror[39m: [31mUser id is required[39m
+2022-11-28 16:16:42:1642 [31merror[39m: [31mName is required[39m
+2022-11-28 16:16:42:1642 [31merror[39m: [31mEmail is required[39m
+2022-11-28 16:20:48:2048 [31merror[39m: [31mUser id is required[39m
+2022-11-28 16:20:52:2052 [31merror[39m: [31mName is required[39m
+2022-11-28 16:20:52:2052 [31merror[39m: [31mEmail is required[39m
+2022-11-28 16:21:24:2124 [31merror[39m: [31mUser id is required[39m
+2022-11-28 16:21:27:2127 [31merror[39m: [31mName is required[39m
+2022-11-28 16:21:27:2127 [31merror[39m: [31mEmail is required[39m
+2022-11-28 16:23:11:2311 [31merror[39m: [31mUser id is required[39m
+2022-11-28 16:23:15:2315 [31merror[39m: [31mName is required[39m
+2022-11-28 16:23:15:2315 [31merror[39m: [31mEmail is required[39m
+2022-11-28 16:28:16:2816 [31merror[39m: [31mUser id is required[39m
+2022-11-28 16:28:19:2819 [31merror[39m: [31mName is required[39m
+2022-11-28 16:28:19:2819 [31merror[39m: [31mEmail is required[39m
+2022-11-28 16:29:19:2919 [31merror[39m: [31mUser id is required[39m
+2022-11-28 16:29:23:2923 [31merror[39m: [31mName is required[39m
+2022-11-28 16:29:23:2923 [31merror[39m: [31mEmail is required[39m
+2022-11-28 16:30:41:3041 [31merror[39m: [31mUser id is required[39m
+2022-11-28 16:30:45:3045 [31merror[39m: [31mName is required[39m
+2022-11-28 16:30:45:3045 [31merror[39m: [31mEmail is required[39m
+2022-11-28 16:31:39:3139 [31merror[39m: [31mUser id is required[39m
+2022-11-28 16:31:43:3143 [31merror[39m: [31mName is required[39m
+2022-11-28 16:31:43:3143 [31merror[39m: [31mEmail is required[39m
+2022-11-28 16:32:42:3242 [31merror[39m: [31mUser id is required[39m
+2022-11-28 16:32:44:3244 [31merror[39m: [31mconversation id is required[39m
+2022-11-28 16:32:46:3246 [31merror[39m: [31mName is required[39m
+2022-11-28 16:32:46:3246 [31merror[39m: [31mEmail is required[39m
+2022-11-28 16:35:27:3527 [31merror[39m: [31mName is required[39m
+2022-11-28 16:35:27:3527 [31merror[39m: [31mEmail is required[39m
+2022-11-28 16:35:41:3541 [31merror[39m: [31mName is required[39m
+2022-11-28 16:35:41:3541 [31merror[39m: [31mEmail is required[39m
+2022-11-28 16:35:45:3545 [31merror[39m: [31mUser id is required[39m
+2022-11-28 16:35:47:3547 [31merror[39m: [31mconversation id is required[39m
+2022-11-28 16:35:47:3547 [31merror[39m: [31mconversation id is required[39m
+2022-11-28 16:36:41:3641 [31merror[39m: [31mUser id is required[39m
+2022-11-28 16:36:43:3643 [31merror[39m: [31mconversation id is required[39m
+2022-11-28 16:36:47:3647 [31merror[39m: [31mName is required[39m
+2022-11-28 16:36:47:3647 [31merror[39m: [31mEmail is required[39m
+2022-11-28 16:37:48:3748 [31merror[39m: [31mUser id is required[39m
+2022-11-28 16:37:50:3750 [31merror[39m: [31mconversation id is required[39m
+2022-11-28 16:37:54:3754 [31merror[39m: [31mName is required[39m
+2022-11-28 16:37:54:3754 [31merror[39m: [31mEmail is required[39m
+2022-11-28 16:39:12:3912 [31merror[39m: [31mUser id is required[39m
+2022-11-28 16:39:14:3914 [31merror[39m: [31mconversation id is required[39m
+2022-11-28 16:39:18:3918 [31merror[39m: [31mName is required[39m
+2022-11-28 16:39:18:3918 [31merror[39m: [31mEmail is required[39m
+2022-11-28 16:40:02:402 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '90d6f74b-eec3-4b84-91f3-69d196c67c82' }[39m
+[32m}[39m
+2022-11-28 16:41:43:4143 [31merror[39m: [31mUser id is required[39m
+2022-11-28 16:41:45:4145 [31merror[39m: [31mconversation id is required[39m
+2022-11-28 16:41:49:4149 [31merror[39m: [31mName is required[39m
+2022-11-28 16:41:49:4149 [31merror[39m: [31mEmail is required[39m
+2022-11-28 16:47:07:477 [31merror[39m: [31mUser id is required[39m
+2022-11-28 16:47:09:479 [31merror[39m: [31mconversation id is required[39m
+2022-11-28 16:47:13:4713 [31merror[39m: [31mName is required[39m
+2022-11-28 16:47:13:4713 [31merror[39m: [31mEmail is required[39m
+2022-11-28 16:48:20:4820 [31merror[39m: [31mUser id is required[39m
+2022-11-28 16:48:22:4822 [31merror[39m: [31mconversation id is required[39m
+2022-11-28 16:48:26:4826 [31merror[39m: [31mName is required[39m
+2022-11-28 16:48:26:4826 [31merror[39m: [31mEmail is required[39m
+2022-11-28 17:06:31:631 [31merror[39m: [31mUser id is required[39m
+2022-11-28 17:06:34:634 [31merror[39m: [31mconversation id is required[39m
+2022-11-28 17:06:34:634 [31merror[39m: [31mconversation id is required[39m
+2022-11-28 17:06:34:634 [31merror[39m: [31mconversation id is required[39m
+2022-11-28 17:06:36:636 [31merror[39m: [31mName is required[39m
+2022-11-28 17:06:36:636 [31merror[39m: [31mEmail is required[39m
+2022-11-28 17:11:32:1132 [31merror[39m: [31mUser id is required[39m
+2022-11-28 17:11:34:1134 [31merror[39m: [31mconversation id is required[39m
+2022-11-28 17:11:36:1136 [31merror[39m: [31mcontent is required[39m
+2022-11-28 17:11:38:1138 [31merror[39m: [31mName is required[39m
+2022-11-28 17:11:38:1138 [31merror[39m: [31mEmail is required[39m
+2022-11-28 17:13:12:1312 [31merror[39m: [31mUser id is required[39m
+2022-11-28 17:13:14:1314 [31merror[39m: [31mconversation id is required[39m
+2022-11-28 17:13:16:1316 [31merror[39m: [31mcontent is required[39m
+2022-11-28 17:13:16:1316 [31merror[39m: [31mconversation id is required[39m
+2022-11-28 17:13:18:1318 [31merror[39m: [31mName is required[39m
+2022-11-28 17:13:18:1318 [31merror[39m: [31mEmail is required[39m
+2022-11-28 21:29:40:2940 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '90d6f74b-eec3-4b84-91f3-69d196c67c82' }[39m
+[32m}[39m
+2022-11-28 21:37:42:3742 [31merror[39m: [31mUser id is required[39m
+2022-11-28 21:37:44:3744 [31merror[39m: [31mconversation id is required[39m
+2022-11-28 21:37:46:3746 [31merror[39m: [31mcontent is required[39m
+2022-11-28 21:37:46:3746 [31merror[39m: [31mconversation id is required[39m
+2022-11-28 21:37:49:3749 [31merror[39m: [31mName is required[39m
+2022-11-28 21:37:49:3749 [31merror[39m: [31mEmail is required[39m
+2022-11-30 18:52:44:5244 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '85d37002-8498-44a7-b676-9330dcc85c9e' }[39m
+[32m}[39m
+2022-11-30 18:55:42:5542 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '85d37002-8498-44a7-b676-9330dcc85c9e' }[39m
+[32m}[39m
+2022-11-30 18:57:34:5734 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '85d37002-8498-44a7-b676-9330dcc85c9e' }[39m
+[32m}[39m
+2022-11-30 18:57:37:5737 [31merror[39m: [31mCannot set headers after they are sent to the client[39m
+2022-11-30 18:58:17:5817 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '85d37002-8498-44a7-b676-9330dcc85c9e' }[39m
+[32m}[39m
+2022-11-30 18:58:20:5820 [31merror[39m: [31mCannot set headers after they are sent to the client[39m
+2022-11-30 19:05:44:544 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '85d37002-8498-44a7-b676-9330dcc85c9e' }[39m
+[32m}[39m
+2022-11-30 19:05:47:547 [31merror[39m: [31mConverting circular structure to JSON[39m
+[31m    --> starting at object with constructor 'Socket'[39m
+[31m    |     property '_writableState' -> object with constructor 'WritableState'[39m
+[31m    |     property 'afterWriteTickInfo' -> object with constructor 'Object'[39m
+[31m    --- property 'stream' closes the circle[39m
+2022-11-30 19:07:22:722 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '85d37002-8498-44a7-b676-9330dcc85c9e' }[39m
+[32m}[39m
+2022-11-30 19:20:17:2017 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '85d37002-8498-44a7-b676-9330dcc85c9e' }[39m
+[32m}[39m
+2022-11-30 19:20:17:2017 [31merror[39m: [31mThe "chunk" argument must be of type string or an instance of Buffer or Uint8Array. Received an instance of Object[39m
+2022-11-30 19:20:47:2047 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '85d37002-8498-44a7-b676-9330dcc85c9e' }[39m
+[32m}[39m
+2022-11-30 19:20:51:2051 [31merror[39m: [31mCannot set headers after they are sent to the client[39m
+2022-11-30 19:26:04:264 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '85d37002-8498-44a7-b676-9330dcc85c9e' }[39m
+[32m}[39m
+2022-11-30 19:26:06:266 [31merror[39m: [31mCannot set headers after they are sent to the client[39m
+2022-11-30 19:26:34:2634 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '85d37002-8498-44a7-b676-9330dcc85c9e' }[39m
+[32m}[39m
+2022-11-30 19:26:36:2636 [31merror[39m: [31mCannot set headers after they are sent to the client[39m
+2022-11-30 21:44:12:4412 [31merror[39m: [31mCannot read properties of undefined (reading 'name')[39m
+2022-11-30 21:45:28:4528 [31merror[39m: [31mCannot read properties of undefined (reading 'name')[39m
+2022-11-30 21:45:48:4548 [31merror[39m: [31mCannot read properties of undefined (reading 'name')[39m
+2022-11-30 21:49:52:4952 [31merror[39m: [31mCannot read properties of undefined (reading 'name')[39m
+2022-11-30 21:50:28:5028 [31merror[39m: [31mCannot read properties of undefined (reading 'name')[39m
+2022-11-30 21:55:18:5518 [31merror[39m: [31mcallback is not a function[39m
+2022-11-30 21:56:34:5634 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '85d37002-8498-44a7-b676-9330dcc85c9e' }[39m
+[32m}[39m
+2022-11-30 21:59:40:5940 [32minfo[39m: [32mgetaddrinfo ENOTFOUND code-challenge.us1.sandbox-rivaltech.io[39m
+2022-11-30 22:01:55:155 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '85d37002-8498-44a7-b676-9330dcc85c9e' }[39m
+[32m}[39m
+2022-11-30 22:06:29:629 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '85d37002-8498-44a7-b676-9330dcc85c9e' }[39m
+[32m}[39m
+2022-11-30 22:08:00:80 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '85d37002-8498-44a7-b676-9330dcc85c9e' }[39m
+[32m}[39m
+2022-11-30 22:08:40:840 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '85d37002-8498-44a7-b676-9330dcc85c9e' }[39m
+[32m}[39m
+2022-11-30 22:19:23:1923 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '85d37002-8498-44a7-b676-9330dcc85c9e' }[39m
+[32m}[39m
+2022-11-30 22:19:26:1926 [31merror[39m: [31mCannot read properties of undefined (reading 'conversation_id')[39m
+2022-11-30 22:21:07:217 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '85d37002-8498-44a7-b676-9330dcc85c9e' }[39m
+[32m}[39m
+2022-11-30 23:30:28:3028 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '85d37002-8498-44a7-b676-9330dcc85c9e' }[39m
+[32m}[39m
+2022-11-30 23:38:30:3830 [31merror[39m: [31mresults is not a function[39m
+2022-11-30 23:38:32:3832 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '85d37002-8498-44a7-b676-9330dcc85c9e' }[39m
+[32m}[39m
+2022-11-30 23:38:38:3838 [31merror[39m: [31mCannot read properties of undefined (reading 'user_id')[39m
+2022-11-30 23:47:39:4739 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '85d37002-8498-44a7-b676-9330dcc85c9e' }[39m
+[32m}[39m
+2022-11-30 23:47:46:4746 [31merror[39m: [31mCannot read properties of undefined (reading 'user_id')[39m
+2022-11-30 23:47:46:4746 [31merror[39m: [31mCannot read properties of undefined (reading 'correct')[39m
+2022-11-30 23:49:51:4951 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '85d37002-8498-44a7-b676-9330dcc85c9e' }[39m
+[32m}[39m
+2022-11-30 23:50:01:501 [31merror[39m: [31mCallback was already called.[39m
+2022-11-30 23:55:33:5533 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '85d37002-8498-44a7-b676-9330dcc85c9e' }[39m
+[32m}[39m
+2022-11-30 23:55:45:5545 [31merror[39m: [31mCallback was already called.[39m
+2022-12-01 00:21:28:2128 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '85d37002-8498-44a7-b676-9330dcc85c9e' }[39m
+[32m}[39m
+2022-12-01 00:21:42:2142 [31merror[39m: [31mCannot read properties of undefined (reading 'correct')[39m
+2022-12-01 00:27:32:2732 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '85d37002-8498-44a7-b676-9330dcc85c9e' }[39m
+[32m}[39m
+2022-12-01 00:27:45:2745 [31merror[39m: [31mCannot read properties of undefined (reading 'correct')[39m
+2022-12-01 00:29:42:2942 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '85d37002-8498-44a7-b676-9330dcc85c9e' }[39m
+[32m}[39m
+2022-12-01 00:29:56:2956 [31merror[39m: [31mCannot read properties of undefined (reading 'correct')[39m
+2022-12-01 00:31:13:3113 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '85d37002-8498-44a7-b676-9330dcc85c9e' }[39m
+[32m}[39m
+2022-12-01 00:31:25:3125 [31merror[39m: [31mCannot read properties of undefined (reading 'correct')[39m
+2022-12-01 00:34:18:3418 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '85d37002-8498-44a7-b676-9330dcc85c9e' }[39m
+[32m}[39m
+2022-12-01 00:34:29:3429 [31merror[39m: [31mCannot read properties of undefined (reading 'correct')[39m
+2022-12-01 00:37:11:3711 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '85d37002-8498-44a7-b676-9330dcc85c9e' }[39m
+[32m}[39m
+2022-12-01 00:37:22:3722 [31merror[39m: [31mCannot read properties of undefined (reading 'correct')[39m
+2022-12-01 00:40:29:4029 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '85d37002-8498-44a7-b676-9330dcc85c9e' }[39m
+[32m}[39m
+2022-12-01 00:40:39:4039 [31merror[39m: [31mCannot read properties of undefined (reading 'correct')[39m
+2022-12-01 00:41:54:4154 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '85d37002-8498-44a7-b676-9330dcc85c9e' }[39m
+[32m}[39m
+2022-12-01 00:42:04:424 [31merror[39m: [31mCannot read properties of undefined (reading 'correct')[39m
+2022-12-01 00:42:55:4255 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '85d37002-8498-44a7-b676-9330dcc85c9e' }[39m
+[32m}[39m
+2022-12-01 00:43:11:4311 [31merror[39m: [31mCallback was already called.[39m
+2022-12-01 00:45:43:4543 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '85d37002-8498-44a7-b676-9330dcc85c9e' }[39m
+[32m}[39m
+2022-12-01 00:45:56:4556 [31merror[39m: [31mCallback was already called.[39m
+2022-12-01 00:49:37:4937 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '85d37002-8498-44a7-b676-9330dcc85c9e' }[39m
+[32m}[39m
+2022-12-01 00:49:56:4956 [31merror[39m: [31mCallback was already called.[39m
+2022-12-01 00:51:28:5128 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '85d37002-8498-44a7-b676-9330dcc85c9e' }[39m
+[32m}[39m
+2022-12-01 00:51:51:5151 [31merror[39m: [31mCallback was already called.[39m
+2022-12-01 01:16:09:169 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '85d37002-8498-44a7-b676-9330dcc85c9e' }[39m
+[32m}[39m
+2022-12-01 01:16:39:1639 [31merror[39m: [31mCallback was already called.[39m
+2022-12-01 01:25:13:2513 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '85d37002-8498-44a7-b676-9330dcc85c9e' }[39m
+[32m}[39m
+2022-12-01 01:25:42:2542 [31merror[39m: [31mCannot read properties of undefined (reading 'correct')[39m
+2022-12-01 01:28:07:287 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '85d37002-8498-44a7-b676-9330dcc85c9e' }[39m
+[32m}[39m
+2022-12-01 01:28:35:2835 [31merror[39m: [31mCannot read properties of undefined (reading 'correct')[39m
+2022-12-01 01:30:29:3029 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '85d37002-8498-44a7-b676-9330dcc85c9e' }[39m
+[32m}[39m
+2022-12-01 01:31:01:311 [31merror[39m: [31mCallback was already called.[39m
+2022-12-01 01:33:51:3351 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '85d37002-8498-44a7-b676-9330dcc85c9e' }[39m
+[32m}[39m
+2022-12-01 01:34:26:3426 [31merror[39m: [31mCallback was already called.[39m
+2022-12-01 01:35:55:3555 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '85d37002-8498-44a7-b676-9330dcc85c9e' }[39m
+[32m}[39m
+2022-12-01 01:36:33:3633 [31merror[39m: [31mCallback was already called.[39m
+2022-12-01 19:09:22:922 [31merror[39m: [31mENOENT: no such file or directory, open '../../data/sports-teams.txt'[39m
+2022-12-01 22:13:27:1327 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '85d37002-8498-44a7-b676-9330dcc85c9e' }[39m
+[32m}[39m
+2022-12-01 22:14:07:147 [31merror[39m: [31mCallback was already called.[39m
+2022-12-01 22:19:43:1943 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '85d37002-8498-44a7-b676-9330dcc85c9e' }[39m
+[32m}[39m
+2022-12-01 22:20:21:2021 [31merror[39m: [31mCallback was already called.[39m
+2022-12-01 22:21:28:2128 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '85d37002-8498-44a7-b676-9330dcc85c9e' }[39m
+[32m}[39m
+2022-12-01 22:22:06:226 [31merror[39m: [31mCallback was already called.[39m
+2022-12-01 22:22:51:2251 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '85d37002-8498-44a7-b676-9330dcc85c9e' }[39m
+[32m}[39m
+2022-12-01 22:23:29:2329 [31merror[39m: [31mCallback was already called.[39m
+2022-12-01 22:37:36:3736 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '85d37002-8498-44a7-b676-9330dcc85c9e' }[39m
+[32m}[39m
+2022-12-01 22:38:17:3817 [31merror[39m: [31mCallback was already called.[39m
+2022-12-01 23:22:26:2226 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '85d37002-8498-44a7-b676-9330dcc85c9e' }[39m
+[32m}[39m
+2022-12-01 23:23:10:2310 [31merror[39m: [31mCallback was already called.[39m
+2022-12-01 23:26:16:2616 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '85d37002-8498-44a7-b676-9330dcc85c9e' }[39m
+[32m}[39m
+2022-12-01 23:26:59:2659 [31merror[39m: [31mCallback was already called.[39m
+2022-12-01 23:32:30:3230 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '85d37002-8498-44a7-b676-9330dcc85c9e' }[39m
+[32m}[39m
+2022-12-01 23:33:18:3318 [31merror[39m: [31mCallback was already called.[39m
+2022-12-01 23:35:05:355 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '85d37002-8498-44a7-b676-9330dcc85c9e' }[39m
+[32m}[39m
+2022-12-01 23:35:52:3552 [31merror[39m: [31mCallback was already called.[39m
+2022-12-01 23:45:24:4524 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '85d37002-8498-44a7-b676-9330dcc85c9e' }[39m
+[32m}[39m
+2022-12-01 23:46:12:4612 [31merror[39m: [31mCallback was already called.[39m
+2022-12-01 23:48:25:4825 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '85d37002-8498-44a7-b676-9330dcc85c9e' }[39m
+[32m}[39m
+2022-12-01 23:49:09:499 [31merror[39m: [31mCallback was already called.[39m
+2022-12-01 23:52:34:5234 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '85d37002-8498-44a7-b676-9330dcc85c9e' }[39m
+[32m}[39m
+2022-12-01 23:53:22:5322 [31merror[39m: [31mCallback was already called.[39m
+2022-12-01 23:59:57:5957 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '85d37002-8498-44a7-b676-9330dcc85c9e' }[39m
+[32m}[39m
+2022-12-02 00:00:46:046 [31merror[39m: [31msearchTeam.split is not a function[39m
+2022-12-02 00:02:14:214 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '85d37002-8498-44a7-b676-9330dcc85c9e' }[39m
+[32m}[39m
+2022-12-02 00:03:01:31 [31merror[39m: [31mCallback was already called.[39m
+2022-12-02 00:04:38:438 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '85d37002-8498-44a7-b676-9330dcc85c9e' }[39m
+[32m}[39m
+2022-12-02 00:05:29:529 [31merror[39m: [31mCallback was already called.[39m
+2022-12-02 00:07:59:759 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '85d37002-8498-44a7-b676-9330dcc85c9e' }[39m
+[32m}[39m
+2022-12-02 00:08:51:851 [31merror[39m: [31mCallback was already called.[39m
+2022-12-02 00:11:19:1119 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '85d37002-8498-44a7-b676-9330dcc85c9e' }[39m
+[32m}[39m
+2022-12-02 00:12:08:128 [31merror[39m: [31mCallback was already called.[39m
+2022-12-02 00:21:04:214 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '85d37002-8498-44a7-b676-9330dcc85c9e' }[39m
+[32m}[39m
+2022-12-02 00:21:58:2158 [31merror[39m: [31mCallback was already called.[39m
+2022-12-02 00:27:19:2719 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '85d37002-8498-44a7-b676-9330dcc85c9e' }[39m
+[32m}[39m
+2022-12-02 00:28:08:288 [31merror[39m: [31mCallback was already called.[39m
+2022-12-02 00:31:02:312 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '85d37002-8498-44a7-b676-9330dcc85c9e' }[39m
+[32m}[39m
+2022-12-02 00:31:57:3157 [31merror[39m: [31mCallback was already called.[39m
+2022-12-02 00:33:46:3346 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '85d37002-8498-44a7-b676-9330dcc85c9e' }[39m
+[32m}[39m
+2022-12-02 00:34:39:3439 [31merror[39m: [31mCallback was already called.[39m
+2022-12-02 00:37:19:3719 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '85d37002-8498-44a7-b676-9330dcc85c9e' }[39m
+[32m}[39m
+2022-12-02 00:38:10:3810 [31merror[39m: [31mCallback was already called.[39m
+2022-12-02 00:42:17:4217 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '85d37002-8498-44a7-b676-9330dcc85c9e' }[39m
+[32m}[39m
+2022-12-02 00:43:02:432 [31merror[39m: [31mCannot read properties of undefined (reading 'slice')[39m
+2022-12-02 00:47:14:4714 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '85d37002-8498-44a7-b676-9330dcc85c9e' }[39m
+[32m}[39m
+2022-12-02 00:48:04:484 [31merror[39m: [31mCannot read properties of undefined (reading 'slice')[39m
+2022-12-02 00:52:45:5245 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '85d37002-8498-44a7-b676-9330dcc85c9e' }[39m
+[32m}[39m
+2022-12-02 00:53:32:5332 [31merror[39m: [31mCannot read properties of undefined (reading 'slice')[39m
+2022-12-02 00:55:26:5526 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '85d37002-8498-44a7-b676-9330dcc85c9e' }[39m
+[32m}[39m
+2022-12-02 00:56:14:5614 [31merror[39m: [31mCannot read properties of undefined (reading 'slice')[39m
+2022-12-02 00:58:04:584 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '85d37002-8498-44a7-b676-9330dcc85c9e' }[39m
+[32m}[39m
+2022-12-02 00:59:25:5925 [31merror[39m: [31mCallback was already called.[39m
+2022-12-02 01:01:10:110 [32minfo[39m: [32mgetaddrinfo ENOTFOUND code-challenge.us1.sandbox-rivaltech.io[39m
+2022-12-02 01:01:10:110 [31merror[39m: [31mCannot read properties of undefined (reading 'user_id')[39m
+2022-12-02 01:02:30:230 [32minfo[39m: [32mgetaddrinfo ENOTFOUND code-challenge.us1.sandbox-rivaltech.io[39m
+2022-12-02 01:02:30:230 [31merror[39m: [31mCannot read properties of undefined (reading 'user_id')[39m
+2022-12-02 01:03:22:322 [32minfo[39m: [32mgetaddrinfo ENOTFOUND code-challenge.us1.sandbox-rivaltech.io[39m
+2022-12-02 01:03:22:322 [31merror[39m: [31mCannot read properties of undefined (reading 'user_id')[39m
+2022-12-02 01:05:25:525 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '967fec5f-8a7c-4e2d-95a7-3e8baef820c9' }[39m
+[32m}[39m
+2022-12-02 01:06:24:624 [31merror[39m: [31mCannot read properties of undefined (reading 'slice')[39m
+2022-12-02 01:07:55:755 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '967fec5f-8a7c-4e2d-95a7-3e8baef820c9' }[39m
+[32m}[39m
+2022-12-02 01:09:14:914 [31merror[39m: [31mCannot read properties of undefined (reading 'slice')[39m
+2022-12-02 01:13:11:1311 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '967fec5f-8a7c-4e2d-95a7-3e8baef820c9' }[39m
+[32m}[39m
+2022-12-02 01:13:51:1351 [31merror[39m: [31mCannot read properties of undefined (reading 'slice')[39m
+2022-12-02 01:16:06:166 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '967fec5f-8a7c-4e2d-95a7-3e8baef820c9' }[39m
+[32m}[39m
+2022-12-02 01:16:53:1653 [31merror[39m: [31mCannot read properties of undefined (reading 'slice')[39m
+2022-12-02 01:17:30:1730 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '967fec5f-8a7c-4e2d-95a7-3e8baef820c9' }[39m
+[32m}[39m
+2022-12-02 01:18:09:189 [31merror[39m: [31mCannot read properties of undefined (reading 'map')[39m
+2022-12-02 01:24:31:2431 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '967fec5f-8a7c-4e2d-95a7-3e8baef820c9' }[39m
+[32m}[39m
+2022-12-02 01:25:15:2515 [31merror[39m: [31mCallback was already called.[39m
+2022-12-02 01:27:25:2725 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '967fec5f-8a7c-4e2d-95a7-3e8baef820c9' }[39m
+[32m}[39m
+2022-12-02 01:28:05:285 [31merror[39m: [31mCallback was already called.[39m
+2022-12-02 01:30:00:300 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '967fec5f-8a7c-4e2d-95a7-3e8baef820c9' }[39m
+[32m}[39m
+2022-12-02 01:31:18:3118 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '967fec5f-8a7c-4e2d-95a7-3e8baef820c9' }[39m
+[32m}[39m
+2022-12-02 01:38:55:3855 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '967fec5f-8a7c-4e2d-95a7-3e8baef820c9' }[39m
+[32m}[39m
+2022-12-02 01:40:24:4024 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '967fec5f-8a7c-4e2d-95a7-3e8baef820c9' }[39m
+[32m}[39m
+2022-12-02 01:46:14:4614 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '967fec5f-8a7c-4e2d-95a7-3e8baef820c9' }[39m
+[32m}[39m
+2022-12-02 02:24:52:2452 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '967fec5f-8a7c-4e2d-95a7-3e8baef820c9' }[39m
+[32m}[39m
+2022-12-02 02:49:14:4914 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '967fec5f-8a7c-4e2d-95a7-3e8baef820c9' }[39m
+[32m}[39m
+2022-12-02 03:12:56:1256 [32minfo[39m: [32mgetaddrinfo ENOTFOUND code-challenge.us1.sandbox-rivaltech.io[39m
+2022-12-02 03:12:56:1256 [31merror[39m: [31mCannot read properties of undefined (reading 'user_id')[39m
+2022-12-02 03:13:34:1334 [32minfo[39m: [32mgetaddrinfo ENOTFOUND code-challenge.us1.sandbox-rivaltech.io[39m
+2022-12-02 03:13:34:1334 [31merror[39m: [31mCannot read properties of undefined (reading 'user_id')[39m
+2022-12-02 03:14:39:1439 [32minfo[39m: [32mgetaddrinfo ENOTFOUND code-challenge.us1.sandbox-rivaltech.io[39m
+2022-12-02 03:14:39:1439 [31merror[39m: [31mCannot read properties of undefined (reading 'user_id')[39m
+2022-12-02 03:15:13:1513 [32minfo[39m: [32mgetaddrinfo ENOTFOUND code-challenge.us1.sandbox-rivaltech.io[39m
+2022-12-02 03:15:13:1513 [31merror[39m: [31mCannot read properties of undefined (reading 'user_id')[39m
+2022-12-02 03:16:04:164 [32minfo[39m: [32mgetaddrinfo ENOTFOUND code-challenge.us1.sandbox-rivaltech.io[39m
+2022-12-02 03:16:04:164 [31merror[39m: [31mCannot read properties of undefined (reading 'user_id')[39m
+2022-12-02 03:16:08:168 [32minfo[39m: [32mgetaddrinfo ENOTFOUND code-challenge.us1.sandbox-rivaltech.io[39m
+2022-12-02 03:16:08:168 [31merror[39m: [31mCannot read properties of undefined (reading 'user_id')[39m
+2022-12-02 03:16:46:1646 [32minfo[39m: [32mgetaddrinfo ENOTFOUND code-challenge.us1.sandbox-rivaltech.io[39m
+2022-12-02 03:16:46:1646 [31merror[39m: [31mCannot read properties of undefined (reading 'user_id')[39m
+2022-12-02 03:17:34:1734 [32minfo[39m: [32mgetaddrinfo ENOTFOUND code-challenge.us1.sandbox-rivaltech.io[39m
+2022-12-02 03:17:34:1734 [31merror[39m: [31mCannot read properties of undefined (reading 'user_id')[39m
+2022-12-02 03:18:29:1829 [32minfo[39m: [32mgetaddrinfo ENOTFOUND code-challenge.us1.sandbox-rivaltech.io[39m
+2022-12-02 03:18:29:1829 [31merror[39m: [31mCannot read properties of undefined (reading 'user_id')[39m
+2022-12-02 03:19:33:1933 [32minfo[39m: [32mgetaddrinfo ENOTFOUND code-challenge.us1.sandbox-rivaltech.io[39m
+2022-12-02 03:19:33:1933 [31merror[39m: [31mCannot read properties of undefined (reading 'user_id')[39m
+2022-12-02 03:22:01:221 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '6cedf002-fab0-4854-966f-47f27e88f0da' }[39m
+[32m}[39m
+2022-12-02 03:28:50:2850 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '6cedf002-fab0-4854-966f-47f27e88f0da' }[39m
+[32m}[39m
+2022-12-02 03:55:26:5526 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '6cedf002-fab0-4854-966f-47f27e88f0da' }[39m
+[32m}[39m
+2022-12-02 04:07:37:737 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '6cedf002-fab0-4854-966f-47f27e88f0da' }[39m
+[32m}[39m
+2022-12-02 04:19:45:1945 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '6cedf002-fab0-4854-966f-47f27e88f0da' }[39m
+[32m}[39m
+2022-12-02 19:51:28:5128 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '6cedf002-fab0-4854-966f-47f27e88f0da' }[39m
+[32m}[39m
+2022-12-02 19:57:04:574 [32minfo[39m: [32m{[39m
+[32m  status: 200,[39m
+[32m  data: { user_id: '6cedf002-fab0-4854-966f-47f27e88f0da' }[39m
+[32m}[39m
+2022-12-02 20:20:23:2023 [31merror[39m: [31mName is required[39m
+2022-12-02 20:20:23:2023 [31merror[39m: [31mEmail is required[39m
+2022-12-02 20:23:24:2324 [31merror[39m: [31mName is required[39m
+2022-12-02 20:23:24:2324 [31merror[39m: [31mEmail is required[39m
+2022-12-02 20:26:06:266 [31merror[39m: [31mName is required[39m
+2022-12-02 20:26:06:266 [31merror[39m: [31mEmail is required[39m
+2022-12-02 21:39:08:398 [31merror[39m: [31mName is required[39m
+2022-12-02 21:39:08:398 [31merror[39m: [31mEmail is required[39m
+2022-12-02 21:41:11:4111 [31merror[39m: [31mName is required[39m
+2022-12-02 21:41:11:4111 [31merror[39m: [31mEmail is required[39m
+2022-12-02 21:43:51:4351 [31merror[39m: [31mName is required[39m
+2022-12-02 21:43:51:4351 [31merror[39m: [31mEmail is required[39m
+2022-12-02 21:46:00:460 [31merror[39m: [31mName is required[39m
+2022-12-02 21:46:00:460 [31merror[39m: [31mEmail is required[39m
+2022-12-02 21:54:43:5443 [31merror[39m: [31mName is required[39m
+2022-12-02 21:54:43:5443 [31merror[39m: [31mEmail is required[39m
+2022-12-02 21:59:42:5942 [31merror[39m: [31mName is required[39m
+2022-12-02 21:59:42:5942 [31merror[39m: [31mEmail is required[39m
+2022-12-02 22:02:40:240 [31merror[39m: [31mName is required[39m
+2022-12-02 22:02:40:240 [31merror[39m: [31mEmail is required[39m
+2022-12-02 22:03:48:348 [31merror[39m: [31mName is required[39m
+2022-12-02 22:03:48:348 [31merror[39m: [31mEmail is required[39m
